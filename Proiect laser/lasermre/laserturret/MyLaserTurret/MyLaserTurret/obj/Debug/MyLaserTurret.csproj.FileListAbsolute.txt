@@ -1,0 +1,31 @@
+c:\users\michael\documents\visual studio 2017\Projects\MyLaserTurret\MyLaserTurret\bin\Debug\MyLaserTurret.exe.config
+c:\users\michael\documents\visual studio 2017\Projects\MyLaserTurret\MyLaserTurret\bin\Debug\MyLaserTurret.exe
+c:\users\michael\documents\visual studio 2017\Projects\MyLaserTurret\MyLaserTurret\bin\Debug\MyLaserTurret.pdb
+c:\users\michael\documents\visual studio 2017\Projects\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2017\Projects\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2017\Projects\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2017\Projects\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.exe
+c:\users\michael\documents\visual studio 2017\Projects\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.pdb
+c:\users\michael\documents\visual studio 2017\Projects\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.Form1.resources
+C:\Users\ioana\Desktop\lasermre\laserturret\MyLaserTurret\MyLaserTurret\bin\Debug\MyLaserTurret.exe.config
+C:\Users\ioana\Desktop\lasermre\laserturret\MyLaserTurret\MyLaserTurret\bin\Debug\MyLaserTurret.exe
+C:\Users\ioana\Desktop\lasermre\laserturret\MyLaserTurret\MyLaserTurret\bin\Debug\MyLaserTurret.pdb
+C:\Users\ioana\Desktop\lasermre\laserturret\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.csproj.AssemblyReference.cache
+C:\Users\ioana\Desktop\lasermre\laserturret\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.csproj.SuggestedBindingRedirects.cache
+C:\Users\ioana\Desktop\lasermre\laserturret\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.Form1.resources
+C:\Users\ioana\Desktop\lasermre\laserturret\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.Properties.Resources.resources
+C:\Users\ioana\Desktop\lasermre\laserturret\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.csproj.GenerateResource.cache
+C:\Users\ioana\Desktop\lasermre\laserturret\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.csproj.CoreCompileInputs.cache
+C:\Users\ioana\Desktop\lasermre\laserturret\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.exe
+C:\Users\ioana\Desktop\lasermre\laserturret\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.pdb
+C:\Users\Julien\Desktop\Proiect laser\lasermre\laserturret\MyLaserTurret\MyLaserTurret\bin\Debug\MyLaserTurret.exe.config
+C:\Users\Julien\Desktop\Proiect laser\lasermre\laserturret\MyLaserTurret\MyLaserTurret\bin\Debug\MyLaserTurret.exe
+C:\Users\Julien\Desktop\Proiect laser\lasermre\laserturret\MyLaserTurret\MyLaserTurret\bin\Debug\MyLaserTurret.pdb
+C:\Users\Julien\Desktop\Proiect laser\lasermre\laserturret\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.csproj.AssemblyReference.cache
+C:\Users\Julien\Desktop\Proiect laser\lasermre\laserturret\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julien\Desktop\Proiect laser\lasermre\laserturret\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.Form1.resources
+C:\Users\Julien\Desktop\Proiect laser\lasermre\laserturret\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.Properties.Resources.resources
+C:\Users\Julien\Desktop\Proiect laser\lasermre\laserturret\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.csproj.GenerateResource.cache
+C:\Users\Julien\Desktop\Proiect laser\lasermre\laserturret\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.csproj.CoreCompileInputs.cache
+C:\Users\Julien\Desktop\Proiect laser\lasermre\laserturret\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.exe
+C:\Users\Julien\Desktop\Proiect laser\lasermre\laserturret\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.pdb
